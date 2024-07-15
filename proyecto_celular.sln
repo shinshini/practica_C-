@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto_celular", "proyecto_celular.csproj", "{69A57A2C-2F2A-4F9E-8C8E-345061CB5624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto_vehivulo", "..\proyecto_vehivulo\proyecto_vehivulo.csproj", "{EBD4F693-9B37-471B-82F2-AC085A188B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A57A2C-2F2A-4F9E-8C8E-345061CB5624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A57A2C-2F2A-4F9E-8C8E-345061CB5624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A57A2C-2F2A-4F9E-8C8E-345061CB5624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A57A2C-2F2A-4F9E-8C8E-345061CB5624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD4F693-9B37-471B-82F2-AC085A188B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD4F693-9B37-471B-82F2-AC085A188B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD4F693-9B37-471B-82F2-AC085A188B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD4F693-9B37-471B-82F2-AC085A188B71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
