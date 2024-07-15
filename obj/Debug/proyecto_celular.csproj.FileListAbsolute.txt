@@ -1,0 +1,6 @@
+F:\ejercicio shardepvelop\proyecto_vectores\proyecto_celular\obj\Debug\proyecto_celular.csprojResolveAssemblyReference.cache
+F:\ejercicio shardepvelop\proyecto_vectores\proyecto_celular\bin\Debug\proyecto_celular.exe.config
+F:\ejercicio shardepvelop\proyecto_vectores\proyecto_celular\bin\Debug\proyecto_celular.exe
+F:\ejercicio shardepvelop\proyecto_vectores\proyecto_celular\bin\Debug\proyecto_celular.pdb
+F:\ejercicio shardepvelop\proyecto_vectores\proyecto_celular\obj\Debug\proyecto_celular.exe
+F:\ejercicio shardepvelop\proyecto_vectores\proyecto_celular\obj\Debug\proyecto_celular.pdb
